@@ -1,0 +1,76 @@
+.Title {
+    font-size: 25px;
+    text-align:center; 
+    color:darkcyan;
+
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #000d1a;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #66b3ff;
+    color: darkblue;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #004080;
+    color: skyblue;
+}
+
+.VariantInfoOJ {
+    font-size: 20px;
+    text-align:center;
+    color:darkorange;
+}
+
+.VariantInfoRed {
+    font-size: 20px;
+    text-align: center;
+    color:firebrick;
+}
+
+body {
+    background-image:url("29DSC_6443800WS10.webp");
+    
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:azure;
+
+        
+}
+
+.recommendedSites {
+    text-align:center;
+    
+}
+
+.gridContainer_images {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap; 10px;
+    width; 95%
+    margin: auto;
+    
+}
