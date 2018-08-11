@@ -74,3 +74,19 @@ body {
     margin: auto;
     
 }
+
+.VariantInfoBlue {
+    font-size: 20px;
+    text-align: center;
+    color:darkblue;
+}
+
+.IntroPatterns {
+    font-size: 20px;
+    text-align: center;
+    color:salmon;
+}
+
+.imgcaption {
+    text-align: center
+}
